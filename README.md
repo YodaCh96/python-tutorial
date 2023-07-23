@@ -14,8 +14,6 @@ Python ist eine für Anfänger und Einsteiger sehr gut geeignete Programmierspra
 - Tuples
 - Sets
 - Dictionaries
-- If...else
-- While Loops
 - For Loops
 - Functions
 - Lambda
